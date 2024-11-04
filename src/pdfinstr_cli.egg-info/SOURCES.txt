@@ -1,0 +1,8 @@
+setup.py
+scripts/pdfinstr
+src/pdfinstr_cli.egg-info/PKG-INFO
+src/pdfinstr_cli.egg-info/SOURCES.txt
+src/pdfinstr_cli.egg-info/dependency_links.txt
+src/pdfinstr_cli.egg-info/requires.txt
+src/pdfinstr_cli.egg-info/top_level.txt
+src/pdfinstrcli/__init__.py
