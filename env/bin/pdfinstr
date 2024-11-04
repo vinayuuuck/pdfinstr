@@ -1,3 +1,0 @@
-#!/Users/vinayak/GitRepos/pdfinstr/env/bin/python3.12
-import pdfinstrcli
-pdfinstrcli.main()
